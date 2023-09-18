@@ -16,6 +16,9 @@ Entries should include a reference to the pull request that introduced the chang
 ## 5.22.1
 
 - [BUGFIX] Fix missing annotations when using Loki in single binary mode.
+## 5.23.0
+
+- [FEATURE] Add support for configuring distributor.
 
 ## 5.22.0
 
